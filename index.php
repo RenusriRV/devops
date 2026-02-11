@@ -142,7 +142,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <section id="home" class="hero">
     <h1>VRK ASSOCIATES</h1>
-    <p>Building Trust. Creating Landmarks.</p>
+    <p>Building Dreams, Creating Futures</p>
     <a href="#contact" class="btn">Get a Quote</a>
 </section>
 
